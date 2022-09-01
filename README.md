@@ -10,7 +10,7 @@ A classification model that tags songs based on their features
 ## 2. Development Practice
 - Create **NEW** notebooks to run the following steps for proper visualization and viewing purposes. 
 
-## 3. Excuting Steps 
+## 3. Executing Steps 
 - Step 1(optional): run 'Librosa Sandbox.ipynb' to experiment with data
 
 - Step 2: run 'Feature Extraction.ipynb' to make sure all files are in proper format
